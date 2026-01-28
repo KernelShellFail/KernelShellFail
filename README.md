@@ -20,9 +20,7 @@ I'm a **BCA Student (Class of 2026)** and a creative tech enthusiast based in Na
 
 ### 📜 Professional Quest Log (Experience)
 
-**◈ Desktop Publisher (DTP Operator) @ Caliber's Nova** *July 2025 – Sept 2025* > Wrangled complex layouts and mastered the art of "making it pop." Combined creative design with technical efficiency to keep the gears turning.
-
-**◈ Web Developer Intern @ VMV College** *April 2024 – Feb 2025* > Spent my days building user interfaces and my nights dreaming in `CSS Flexbox`. Worked heavily with modern JS frameworks to make things pretty and functional.
+** Trying to be alive **
 
 ---
 
